@@ -16,6 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
  * Change C
  * Change XY
  * 
+ * version 2
+ * 
  * @author cyrille.trabi
  *
  */
