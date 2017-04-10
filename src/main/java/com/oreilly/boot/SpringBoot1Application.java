@@ -27,6 +27,7 @@ public class SpringBoot1Application {
 	public String home(){return "hello";}
 
 	public static void main(String[] args) {
+		//fixex the bug
 		SpringApplication.run(SpringBoot1Application.class, args);
 	}
 	
